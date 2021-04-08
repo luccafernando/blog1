@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.textos p{
+
+	font-family: 'Karla', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: white;
+}
+
+.main-menu  ul li, .footer-menu ul li{ 
+	display: inline; 
+	margin-left: 1rem;
+
+}
+
+
+
+.social-media-icons{
+	height: 2rem;
+}
+
+hr{
+    height: 1px;
+	width: 3rem;
+    background-image: linear-gradient(to right, rgb(255, 255, 255) 60%, rgb(255, 255, 255) 0%);
+
+}
+
+.homepage{
+	height: 100vh;
+	width: 100vw;
+	background-color: teal;
+}
+
+.retangulo{
+	max-width: 250px;
+	height: 300px;
+	background-color: white;
+
+}
