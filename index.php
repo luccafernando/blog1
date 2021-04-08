@@ -23,7 +23,7 @@
 							else:
 							?>
 
-							 <p>There's nothing yet to be displayed.....</p>
+							 <p>There's nothing yet to be displayed...</p>
 
 							<?php endif; ?>
 
